@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">A passionate test automation engineer from India</h3>
 
-- 📫 How to reach me **manojbalasubramaniyam4488@gmail.com**
+- 📫Reach me **manojbalasubramaniyam4488@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
