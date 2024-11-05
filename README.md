@@ -48,7 +48,10 @@
    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://maven.apache.org/images/apache-maven-project.png" alt="Apache-Maven" width="180" height="40"/>
   </a>
+   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" alt="Jira" width="60" height="40"/>
+  </a>
   <a href="https://www.fireflink.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.fireflink.com/static/media/fireflink.0d427889.svg" alt="Apache-Maven" width="80" height="60"/>
+    <img src="https://www.fireflink.com/static/media/fireflink.0d427889.svg" alt="Apache-Maven" width="80" height="50"/>
   </a>
 </p>
