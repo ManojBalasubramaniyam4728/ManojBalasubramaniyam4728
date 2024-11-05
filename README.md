@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a>
    <a href="https://appium.io/docs/en/latest/" target="_blank" rel="noreferrer"> 
-    <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="Appium" width="80" height="40"/> 
+    <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="Appium" width="90" height="40"/> 
   </a>
    <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
@@ -46,7 +46,9 @@
     <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" alt="pytest" width="40" height="40"/>
   </a>
    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://maven.apache.org/images/apache-maven-project.png" alt="Apache-Maven" width="100" height="40"/>
+    <img src="https://maven.apache.org/images/apache-maven-project.png" alt="Apache-Maven" width="180" height="40"/>
   </a>
- 
+  <a href="https://www.fireflink.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.fireflink.com/static/media/fireflink.0d427889.svg" alt="Apache-Maven" width="80" height="60"/>
+  </a>
 </p>
