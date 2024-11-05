@@ -18,6 +18,9 @@
    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a>
+   <a href="https://appium.io/docs/en/latest/" target="_blank" rel="noreferrer"> 
+    <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="Appium" width="80" height="40"/> 
+  </a>
    <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
   </a>
