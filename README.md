@@ -54,7 +54,4 @@
   <a href="https://www.fireflink.com/" target="_blank" rel="noreferrer">
     <img src="https://www.fireflink.com/static/media/fireflink.0d427889.svg" alt="Apache-Maven" width="80" height="50"/>
   </a>
-  <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="SQL" width="80" height="50"/>
-</a>
 </p>
