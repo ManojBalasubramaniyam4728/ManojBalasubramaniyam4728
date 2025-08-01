@@ -55,6 +55,6 @@
     <img src="https://www.fireflink.com/static/media/fireflink.0d427889.svg" alt="Apache-Maven" width="80" height="50"/>
   </a>
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://jmeter.apache.org/images/logo.svg" alt="Apache-JMeter" width="70" height="50"/>
+    <img src="https://jmeter.apache.org/images/asf-logo.svg" alt="Apache-JMeter" width="70" height="50"/>
 </a>
 </p>
