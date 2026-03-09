@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">A Passionate Test Automation Engineer From India</h3>
 
-- 📫Reach me **manojbalasubramaniyam4488@gmail.com**
+- 📫 Reach me **manojbalasubramaniyam4488@gmail.com**
+
+- 🌐 <b>My Portfolio:</b> [https://my-portfolio-ivory-delta-q61uwp2ugu.vercel.app/index.html](https://my-portfolio-ivory-delta-q61uwp2ugu.vercel.app/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/manoj-b-960675234" target="_blank">LinkedIn</a>
