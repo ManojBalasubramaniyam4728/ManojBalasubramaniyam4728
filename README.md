@@ -3,7 +3,7 @@
 
 - 📫 Reach me **manojbalasubramaniyam4488@gmail.com**
 
-- 🌐 <b>My Portfolio:</b> [https://my-portfolio-chi-ten-mlhmsk3qks.vercel.app/index.html][(https://my-portfolio-chi-ten-mlhmsk3qks.vercel.app/projects/project.html](https://my-portfolio-chi-ten-mlhmsk3qks.vercel.app/index.html))
+- 🌐 <b>My Portfolio:</b> [https://my-portfolio-chi-ten-mlhmsk3qks.vercel.app/index.html](https://my-portfolio-chi-ten-mlhmsk3qks.vercel.app/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/manoj-b-960675234" target="_blank">LinkedIn</a>
