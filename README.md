@@ -54,7 +54,7 @@
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" alt="Jira" width="60" height="40"/>
   </a>
   <a href="https://www.fireflink.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.fireflink.com/static/media/fireflink.0d427889.svg" alt="Apache-Maven" width="80" height="50"/>
+    <imgsrc="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAYCAMAAADJYP15AAAAWlBMVEX7+fusibJzN31xNHuedaXm3Oj///+3mLz39PiFUI2KWJJ1On+vjbWYbJ/f0OGnga2ieqjv6PDi1eR4PoHIsMy9ocK0k7mQYJjr4ux8RIXTwdaBS4q6nb/DqccMf0sLAAAAoElEQVR4AV3RBRKEMAxA0ZQsVdz1/tfcSYOlf4x5QBVAZfjLdRIYpJRN2GHMS4eMMBSkKZfAz5XkWlOVw6ZNGVQcTbWSO+SyuiUOgql+EByMHXukmg/H6eyUkY/QR37KPfEs2SqMNYLHnrVfYH14c8iVi344ny/cN61fVozBgCbeBfOhJOwrcQ3M4dBP4G+eF/3h8uJWf4OBOQn0seOp0/5bxw4UKaylmAAAAABJRU5ErkJggg==" alt="Fireflink" width="80" height="50"/>
   </a>
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://jmeter.apache.org/images/asf-logo.svg" alt="Apache-JMeter" width="70" height="50"/>
